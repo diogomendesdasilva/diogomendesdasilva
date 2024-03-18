@@ -26,4 +26,6 @@ Sempre gostei muito de tecnologia, e programação foi onde eu realmente me enco
 
 ## Entre em contato:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diogaomendees@gmail.com)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### <a href="mailto:diogaomendees@gmail.com">Me envie um email</a>
+
